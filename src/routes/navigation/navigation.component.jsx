@@ -1,6 +1,6 @@
 import React, { Fragment } from 'react'
 import { Link, Outlet } from 'react-router-dom'
-import { ReactComponent as CrwnLogo} from '../../../assets/87 - crown.svg'
+import { ReactComponent as CrwnLogo} from '../../assets/87 - crown.svg';
 import './navigation.styles.scss';
 const Navigation = () => {
     return (
