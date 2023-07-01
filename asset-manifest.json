@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/react-gh-pages/static/css/main.444e92a2.css",
-    "main.js": "/react-gh-pages/static/js/main.5de8b9bf.js",
-    "static/js/787.d7ece244.chunk.js": "/react-gh-pages/static/js/787.d7ece244.chunk.js",
-    "static/media/87 - crown.svg": "/react-gh-pages/static/media/87 - crown.3a4e2b15908e7a4c25343677d232b7e6.svg",
-    "index.html": "/react-gh-pages/index.html",
-    "main.444e92a2.css.map": "/react-gh-pages/static/css/main.444e92a2.css.map",
-    "main.5de8b9bf.js.map": "/react-gh-pages/static/js/main.5de8b9bf.js.map",
-    "787.d7ece244.chunk.js.map": "/react-gh-pages/static/js/787.d7ece244.chunk.js.map"
+    "main.css": "/crow-clothing/static/css/main.444e92a2.css",
+    "main.js": "/crow-clothing/static/js/main.59291527.js",
+    "static/js/787.d7ece244.chunk.js": "/crow-clothing/static/js/787.d7ece244.chunk.js",
+    "static/media/87 - crown.svg": "/crow-clothing/static/media/87 - crown.3a4e2b15908e7a4c25343677d232b7e6.svg",
+    "index.html": "/crow-clothing/index.html",
+    "main.444e92a2.css.map": "/crow-clothing/static/css/main.444e92a2.css.map",
+    "main.59291527.js.map": "/crow-clothing/static/js/main.59291527.js.map",
+    "787.d7ece244.chunk.js.map": "/crow-clothing/static/js/787.d7ece244.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.444e92a2.css",
-    "static/js/main.5de8b9bf.js"
+    "static/js/main.59291527.js"
   ]
 }
